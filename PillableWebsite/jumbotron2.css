@@ -1,0 +1,84 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+
+body {
+  padding-top: 3.5rem;
+  background: Dodgerblue;
+}
+
+.display-3 {
+    background: Dodgerblue;
+    color: white;
+font-family: grange-condensed, sans-serif;
+
+font-weight: 300;
+
+font-style: normal;
+font-size: 150px;
+}
+
+h2 {
+    background: Dodgerblue;
+    color: white;
+  font-family: grange-condensed, sans-serif;
+
+font-weight: 300;
+
+font-style: normal;
+
+font-size: 100px;
+
+}
+
+h3 {
+    background: Dodgerblue;
+    color: white;
+    font-family: grange-condensed, sans-serif;
+
+font-weight: 300;
+
+font-style: normal;
+}
+
+h4 {
+    background: Dodgerblue;
+    color: white;
+    font-family: grange-condensed, sans-serif;
+
+font-weight: 300;
+
+font-style: normal;
+}
+
+p {
+    background: Dodgerblue;
+    color: yellow;
+    font-family: grange-condensed, sans-serif;
+
+font-weight: 300;
+
+font-style: normal;
+
+}
+
+footer{
+font-size: 34px
+}
+
+.btn-secondary{
+font-size: 50px;
+border-color: yellow;
+background: transparent;
+border-width: 4px;
+}
+
+.jumbotron {
+    background: Dodgerblue;
+    color: white;
+    font-family: grange-condensed, sans-serif;
+
+font-weight: 300;
+
+
+font-style: normal;
+font-size: 50px;
+}
